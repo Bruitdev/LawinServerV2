@@ -1179,6 +1179,19 @@
     "lastModified": "2019-10-29T14:05:17.030Z",
     "_locale": "en-US"
   },
+  "battleroyalenewsv2": {
+    "news": {
+      "_type": "Battle Royale News v2",
+      "motds": []
+    },
+    "_title": "LawinServer V2! (Made by Lawin modded by Bruit!)",
+    "_noIndex": false,
+    "alwaysShow": true,
+    "_activeDate": "2024-07-06T05:47:30.195Z",
+    "lastModified": "2024-07-06T05:47:30.195Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameMOTD"
+  },
   "tournamentinformation": {
     "tournament_info": {
       "tournaments": [
